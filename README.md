@@ -70,26 +70,33 @@ But I wasted like 6 million points that I could have used in other points.
 
 ## Getting gold chest in Hero events #
 
-Event details:
-    - Recruitment points
-    - Unlock Skill points
-    - Hero level up points
-    - spend wisdom medal points
-    - exchange hero medal points
-Startegy:
-    The best way to do this is the following:
-    - Check your heroes and make a note of the green ones
-    - level up the hero to lvl6 (for 2nd skill unlock) and lvl12(for 3rd skill unlock)
-    - spend some wisdom medal to upgrade skill (I upgrade to skill lvl 3)
-    - Dismiss the hero (only for heroes that are not stationed or in legion)
-    - Dismissing hero gives back 80% of the gold and wisdom medal you used on it
-    - exchange the green hero medal in Arena
-    - Don't use tickets before clearing up the green heroes since duplicates directly become medals
-        and then you can't do all the stuf twice.
-    - try to save hero tickets to use 10 at a time you get 1 extra pull from that
-    - ** If you get a Orange hero duplicate, 
-      ** do NOT exchange that medal, 
-      ** save it to unlock Skill 6
+### Event details:
+- Recruitment points
+- Unlock Skill points
+- Hero level up points
+- spend wisdom medal points
+- exchange hero medal points
+
+### Startegy:
+
+The best way to do this is the following:
+- Check your heroes and make a note of the green ones
+- level up the hero to lvl6 (for 2nd skill unlock) and lvl12(for 3rd skill unlock)
+- spend some wisdom medal to upgrade skill (I upgrade to skill lvl 3)
+- Dismiss the hero (only for heroes that are not stationed or in legion)
+- Dismissing hero gives back 80% of the gold and wisdom medal you used on it
+- exchange the green hero medal in Arena
+- Don't use tickets before clearing up the green heroes since duplicates directly become medals and then you can't do all the stuff twice.
+- Try to save hero tickets, so that you can use them 10 at a time as you get 1 extra pull from that. 
+  * Recruiting in batches of 10 is extremely important in the case of Orange Tickets since that gives you a guaranteed Purple or Orange Hero.
+  * If you get a Orange hero duplicate (meaning if you already have an orange hero and you get it again during recruitment)
+    * do NOT exchange that medal to get wisdom medal
+    * save it to unlock Skill 6
+    * do NOT unlock skill 5 of any hero unless you have the Skill 6 unlocked.
+    
+<!-- ![Hero Orochi with Skill 1 and Skill 6 unlocked](/assets/images/Orochi-skill-1-skill-6-highlighted.jpg) -->
+
+<img src="/assets/images/Orochi-skill-1-skill-6-highlighted.jpg" alt="alt text" width="30%" height="30%">
 
 How to dismiss hero?
 - First remove them from legion or station
