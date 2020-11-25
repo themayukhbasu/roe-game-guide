@@ -123,6 +123,7 @@ This is legal in Rise of Empire game, and pretty much everyone does it.
 If you don't want to pay a lot of money you need make farms.
 
 > How to make farm accounts?
+
 ** Hopefully you have your main castle bound to some email ID
 Goto menu > 3 dots > account > start a new game
 This will create a new game in a newer state.
@@ -131,33 +132,37 @@ After castle level 6, there is nothing you can do to change state.
 After playing the game for a bit, when you are able to acess the map screen, you have to move.
 
 > How to change state?
+
 Before reaching castle level 6, goto map > the state view > all state map
 Find your main state from here, go inside and then click on an empty tile.
 You will be given the option of "Change Zone", click it and you will be in the main state.
 
 > Buildings in Farm account:
-Castle level: level 13 (as fast as possible) and level 16 (slowly)
-Storages: Max level. Castle 13 allows you to get the extrac storage
-Resource production buildings: max level
-Mint: max level 
-Trading house (baloon): min level 10
-stable: lvl 2
-Training grounds: slowly max level
-Medical tent: Max level
-Military buildings: No need to upgrade military buildings (watch tower, fortress etc)
+
+- Castle level: level 13 (as fast as possible) and level 16 (slowly)
+- Storages: Max level. Castle 13 allows you to get the extrac storage
+- Resource production buildings: max level
+- Mint: max level 
+- Trading house (baloon): min level 10
+- stable: lvl 2
+- Training grounds: slowly max level
+- Medical tent: Max level
+- Military buildings: No need to upgrade military buildings (watch tower, fortress etc)
 
 > Troops in farm account:
-We use troops only for gathering.
-3 legion full of T1 cavalry.
-T1 cavalry have the higest load capacity.
+
+- We use troops only for gathering.
+- 3 legion full of T1 cavalry.
+- T1 cavalry have the higest load capacity.
 
 > Technology in farm account:
-Town development tech tree: max level
-Rapid production tech tree: max level
-Legion research: unlock 1st hero in 3 legions and do 5/5 in high-speed gather and take it all
-(Clash of province) Do as much as COP research as possible in farm
 
-Strategies:
+- Town development tech tree: max level
+- Rapid production tech tree: max level
+- Legion research: unlock 1st hero in 3 legions and do 5/5 in high-speed gather and take it all (Clash of province) Do as much as COP research as possible in farm
+
+> Strategies:
+
 - Choose farmer class at the beginning
 - Complete daily task everyday
 - Fill 3 legions with T1 cavs, (upgrade hero S1 and training ground for legion capacity)
@@ -166,20 +171,20 @@ Strategies:
 - Ensure that your storage capacity is more than depot protection
 - trade resources in baloon
 - Depending on the number of farms, after reaching c13 divide them into trader and farmer class.
-    Trader class 
-        Pros:
-        - Has very low depot protection, so you are able to loot more resources.
-        - Better gold production
-        Cons:
-        - gathering capacity low
-        - resource production low
-    Farmer class has high resource production and gathering capacity,
-        Pros:
-        - gathering capacity high
-        - resource production high
-        Cons:
-        - Has very high depot protection, so you need to have high storage level.
-        - low gold production
+    * Trader class 
+        * Pros:
+          - Has very low depot protection, so you are able to loot more resources.
+          - Better gold production
+        * Cons:
+          - gathering capacity low
+          - resource production low
+    * Farmer class has high resource production and gathering capacity,
+        * Pros:
+          - gathering capacity high
+          - resource production high
+        * Cons:
+          - Has very high depot protection, so you need to have high storage level.
+          - low gold production
 - before attacking with your main castle, keep the troops out       
 - If your main is a raider class, before going offline spend the stamina of the class legion to loot gold
     from farm, since gold is the hardest to get and you get only a certain amount per hit.
