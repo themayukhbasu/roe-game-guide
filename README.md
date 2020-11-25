@@ -1,3 +1,4 @@
+# :penguin:
 # Sudo's ROE Guides:
 
 - [x] Hourly Event Guide 
