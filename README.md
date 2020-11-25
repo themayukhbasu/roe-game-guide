@@ -397,18 +397,20 @@ You will need Courage Medals to research this and so you need to save those meda
 Gather Day is very easy for a Farmer class, due to higher gather load capacity and speed.
 However as Raider, it is very tough to get Gold chest.
 A few tips for getting gold chest:
-    1) Rearrange your heroes so that all your legions have uniform gather load capacity.
+
+    1. Rearrange your heroes so that all your legions have uniform gather load capacity.    
         In simple terms, if your legions have similar load capacity i.e. the total amount of resource
         the legion can gather, then all your legions will have similar gather time.
         Having similar gather time is very useful, since that will help you to plan ahead when 
         to put on the COP bonus and recall troops.
-    2) Start gathering on Sunday, the day before the Gather Day. (it is risky since enemies might
+    
+    1. Start gathering on Sunday, the day before the Gather Day. (it is risky since enemies might
             hit your gathering tiles, but it is a risk you will have to take)
-    3) Gather bonus item is probably your best friend in helping you get gold chest:
-            Let me tell you a trick with Gather
+    1. Gather bonus item is probably your best friend in helping you get gold chest:    
+            Let me tell you a trick with Gather:
             - Gather Bonus increases gathering speed 
             - I like to think of it like a gather time reduction item.
             - What I do is: 
-                = I start my gathering and note the gather time of all the legions.
-                = Usually I have similar gather time, say 8 hours.
+              * I start my gathering and note the gather time of all the legions.
+              * Usually I have similar gather time, say 8 hours.
             - 
