@@ -1,6 +1,9 @@
 # :penguin:
 # Sudo's ROE Guides:
 
+> `Disclaimer: Not yet Completed. Work in progress`
+
+### Guide List:
 - [x] Hourly Event Guide 
 - [x] Farm Guide
 - [x] Hero/Legion Guide
