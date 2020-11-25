@@ -1,14 +1,14 @@
-ROE Guides:
+# Sudo's ROE Guides:
 
-[x] Hourly Event Guide 
-[x] Farm Guide
-[x] Hero/Legion Guide
-    Building Guide
-    Technology Guide
-    Combat Guide
-    Clash of Province (SvS)
+- [x] Hourly Event Guide 
+- [x] Farm Guide
+- [x] Hero/Legion Guide
+- [ ] Building Guide
+- [ ] Technology Guide
+- [ ] Combat Guide
+- [ ] Clash of Province (SvS)
 
-###################
+---
 
 # Hourly Event Guide #
 
@@ -63,7 +63,7 @@ But I wasted like 6 million points that I could have used in other points.
 
 
 
-===========================================
+---
 
 
 # Getting gold chest in Hero events #
@@ -96,8 +96,7 @@ How to dismiss hero?
 - On bottom left you will find the dismiss button
 
 
-
-#####################
+---
 
 # Farm Guide #
 
@@ -180,7 +179,7 @@ Strategies:
 - During hero day, complete as many gold chests as possible, even if that means you need to 
     exchange orange hero medals for wisdom medals.
 
-#####################
+---
 
 
 # Hero/Legion Guide #
@@ -280,8 +279,7 @@ Quick tips:
 
 Note: There is a lot more to heroes than what I have mentioned above. But this is a good starting point.
 
-#####################
-
+---
 
 # COP Quick Tip #
 
@@ -312,7 +310,7 @@ My recommendation: Don't exchange and make 100% COP bonus unless you have 4-6 or
 The extra points become useless unless it opens a chest.
 
 
-####################
+---
 
 Random Tips:
 
@@ -321,7 +319,7 @@ Random Tips:
 2) Exchange courage medals with hero tokens in token shop in benefit center (You get hero tokens from Gold Chests) (50 courage medals for 15 tokens is the best deal, you can refresh the shop with 200 gems until you get deals like that)
 3) Courage medals are also received from Purple and Gold Clash of Province Chests
 
-#######################
+---
 
 
 # Easy way to get the material thats hardest to get for your troop type:
@@ -358,7 +356,7 @@ The way to get these requires a bit of gambling:
 
 
 
-##############################
+---
 
 # Clash of Provine Guide #
 
@@ -384,7 +382,7 @@ This Technology helps by "increasing gathering speed", "increasing gather load c
 "unlock extra COP chests", "increase COP points earned" etc.
 You will need Courage Medals to research this and so you need to save those medals.
 
-# How to get courage medals:
+### How to get courage medals:
 1) Hitting monsters
 2) Exchange courage medals with hero tokens in token shop in benefit center 
     (You get hero tokens from Gold Chests) (50 courage medals for 15 tokens is the best deal,
