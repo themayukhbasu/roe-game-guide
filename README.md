@@ -3,14 +3,15 @@
 - [x] Hourly Event Guide 
 - [x] Farm Guide
 - [x] Hero/Legion Guide
+- [ ] Clash of Province (SvS) `[in progress]`
 - [ ] Building Guide
 - [ ] Technology Guide
 - [ ] Combat Guide
-- [ ] Clash of Province (SvS)
+
 
 ---
 
-# Hourly Event Guide #
+## Hourly Event Guide #
 
 > What are the hourly events?
 
@@ -44,10 +45,10 @@ Yes very important!
 - Doing such activities give you points
 - These points can then be used to get the rewards chests
 
-How to do these events properly?
+> How to do these events properly?
 
 - Your goal should be to open the maximum number of chests as possible.
-- #Maths... Yes, you haven't escaped maths even in this game 🤦‍♂️. But I assure you it's all simple, just keep a calculator handy.
+- *Maths*, Yes, you haven't escaped maths even in this game 🤦‍♂️. But I assure you it's all simple, just keep a calculator handy.
 - For each activity you get points, for example 1 building power gives you 1000 points. So if you can increase 80 building power by upgrades, you get 80×1000=80,000 points, which opens the Blue chest.
 - if you do the calculation before you start then you easily know what chests you can open.
 
@@ -66,7 +67,7 @@ But I wasted like 6 million points that I could have used in other points.
 ---
 
 
-# Getting gold chest in Hero events #
+## Getting gold chest in Hero events #
 
 Event details:
     - Recruitment points
@@ -98,7 +99,7 @@ How to dismiss hero?
 
 ---
 
-# Farm Guide #
+## Farm Guide #
 
 If you wanna be a big player and don't wanna spend thousands of dollars you need something 
 called farms. These are different than the farm building we have in our castle 
@@ -182,7 +183,7 @@ Strategies:
 ---
 
 
-# Hero/Legion Guide #
+## Hero/Legion Guide #
 
 Heroes are probably the most important thing in the game.
 You hero stats decide whether you will win or loose in a fight.
@@ -281,7 +282,7 @@ Note: There is a lot more to heroes than what I have mentioned above. But this i
 
 ---
 
-# COP Quick Tip #
+## COP Quick Tip #
 
 1) What is 50% Clash of Province Score?
 The item 50% COP bonus is very important because it is a "point multiplier".
@@ -312,9 +313,9 @@ The extra points become useless unless it opens a chest.
 
 ---
 
-Random Tips:
+## Random Tips:
 
-# How to get courage medals:
+### How to get courage medals:
 1) Hitting monsters
 2) Exchange courage medals with hero tokens in token shop in benefit center (You get hero tokens from Gold Chests) (50 courage medals for 15 tokens is the best deal, you can refresh the shop with 200 gems until you get deals like that)
 3) Courage medals are also received from Purple and Gold Clash of Province Chests
@@ -322,7 +323,7 @@ Random Tips:
 ---
 
 
-# Easy way to get the material thats hardest to get for your troop type:
+## Easy way to get the material thats hardest to get for your troop type:
 
 One of the best way to get equipment is to buy green chests from store.
 They cost 250 gems each and will give you (green) 3 out of the 4 materials that you require very easily.
@@ -358,7 +359,7 @@ The way to get these requires a bit of gambling:
 
 ---
 
-# Clash of Provine Guide #
+## Clash of Provine Guide #
 
 Clash of Province (COP) is the State vs State event which runs every week after first month in the state.
 Every week you get new States as opponents and throughout the week you compete in different challenges daily
