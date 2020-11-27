@@ -225,52 +225,52 @@ There are 4 rarity of heroes (at least in this early stage, later there will be 
         - Has 8 unlockable skills
 
 Each Combat hero has 2 type of skills:
-    Leadership Skill (green background): Skill 1,3,4,6,7
-    Combat Skill (red background): Skill 2, 5, 8
-    
-    [ I will call the skills as S1, S2, S3 .... S8 from now on]
+   Leadership Skill (green background): Skill 1,3,4,6,7
+   Combat Skill (red background): Skill 2, 5, 8
+
+   [ I will call the skills as S1, S2, S3 .... S8 from now on]
 
 Which skills are extremely important?
-    Skill 1 increases your legion capacity, which means more troops will fit into your legion,
-        and more troops in battle is always better
-    Skill 6 gives bonus to skill 1, there by increasing the legion capacity even more.
-    !! If you have a duplicate of an Orange hero (meaning you got an Orange hero twice) then
-        save that medal and get that Orange hero to level 35, so that you can unlock Skill 6.
-    Combat skills are important too and can play a deciding factor whether you win or loose.
+   Skill 1 increases your legion capacity, which means more troops will fit into your legion,
+       and more troops in battle is always better
+   Skill 6 gives bonus to skill 1, there by increasing the legion capacity even more.
+   !! If you have a duplicate of an Orange hero (meaning you got an Orange hero twice) then
+       save that medal and get that Orange hero to level 35, so that you can unlock Skill 6.
+   Combat skills are important too and can play a deciding factor whether you win or loose.
 
-    As per my recommendation work on  S1 first, then S6 if possible then do the other skills
-    depending on the number of wisdom medals you have. But if you do have the hero medal to open skill 6,
-    then that should be your top priority.
+   As per my recommendation work on  S1 first, then S6 if possible then do the other skills
+   depending on the number of wisdom medals you have. But if you do have the hero medal to open skill 6,
+   then that should be your top priority.
 
 Combat Skill Info:
-    If you click on any combat skills (red skill, S2, S5, S8) of an hero you can see certain information:
-        Type: combat 
-        Effective Range: {some range depending on the hero}
-        Target: {some target depending on the hero}
+   If you click on any combat skills (red skill, S2, S5, S8) of an hero you can see certain information:
+       Type: combat 
+       Effective Range: {some range depending on the hero}
+       Target: {some target depending on the hero}
 
-        I would like you to look at the these info of your orange heroes very carefully.
-        The "Effective Range" is probably the most important information.
-        It is the range of your hero's skill.
-    - Dual Blade Example
-        So for example Dual Blade hero's S2 has an Effective Range of 3, so it means that her skills
-        will work on any of the 3 rows in front of where she is placed.
+       I would like you to look at the these info of your orange heroes very carefully.
+       The "Effective Range" is probably the most important information.
+       It is the range of your hero's skill.
+   - Dual Blade Example
+       So for example Dual Blade hero's S2 has an Effective Range of 3, so it means that her skills
+       will work on any of the 3 rows in front of where she is placed.
 
-        That means, if you place Dual blade at the front row, all the 3 rows of the enemy is within 
-        her range to attack. if you place her in the 2nd row, she can hit only the first 2 rows of enemy
-        since there is one friendly row in front of her. If she is placed in the 3rd row, she can only hit 
-        the enemy's 1st row.
+       That means, if you place Dual blade at the front row, all the 3 rows of the enemy is within 
+       her range to attack. if you place her in the 2nd row, she can hit only the first 2 rows of enemy
+       since there is one friendly row in front of her. If she is placed in the 3rd row, she can only hit 
+       the enemy's 1st row.
 
-        it is recommended for this range reason, to keep dual blade in the mid row.
+       it is recommended for this range reason, to keep dual blade in the mid row.
 
-    - Orochi Example:
-        Orochi's S2 has an effective range of 2, so it means that she can only hit 2 rows in front of her
-        If she is placed in the 3rd row of your legion, her combat skill will never activate.
+   - Orochi Example:
+       Orochi's S2 has an effective range of 2, so it means that she can only hit 2 rows in front of her
+       If she is placed in the 3rd row of your legion, her combat skill will never activate.
 
-        For this reason, orochi is always a front row hero.
-    - Heaven's Justice Example:
-        Justice has S2 range of 5, which means he can hit 5 rows in front of him.
-        He is the perfect back row hero, as he can attack any of the 3 enemy rows even while sitting at
-        the last row.
+       For this reason, orochi is always a front row hero.
+   - Heaven's Justice Example:
+       Justice has S2 range of 5, which means he can hit 5 rows in front of him.
+       He is the perfect back row hero, as he can attack any of the 3 enemy rows even while sitting at
+       the last row.
 
 Legion Guide:
     Now that you have some idea about Range, you have to look at the range of your heroes and 
@@ -375,7 +375,7 @@ The way to get these requires a bit of gambling:
 
 ---
 
-## Clash of Provine Guide #
+## Clash of Province Guide #
 
 Clash of Province (COP) is the State vs State event which runs every week after first month in the state.
 Every week you get new States as opponents and throughout the week you compete in different challenges daily
@@ -407,25 +407,35 @@ You will need Courage Medals to research this and so you need to save those meda
 3) Courage medals are also received from Purple and Gold Clash of Province Chests 
     (anything from Chest 2 gives courage medals)
 
-> COP Gathering Day Guide:
+### COP Gathering Day Guide:
 
 Gather Day is very easy for a Farmer class, due to higher gather load capacity and speed.
 However as Raider, it is very tough to get Gold chest.
 A few tips for getting gold chest:
 
-    1. Rearrange your heroes so that all your legions have uniform gather load capacity.    
-        In simple terms, if your legions have similar load capacity i.e. the total amount of resource
-        the legion can gather, then all your legions will have similar gather time.
-        Having similar gather time is very useful, since that will help you to plan ahead when 
-        to put on the COP bonus and recall troops.
-    
-    1. Start gathering on Sunday, the day before the Gather Day. (it is risky since enemies might
-            hit your gathering tiles, but it is a risk you will have to take)
-    1. Gather bonus item is probably your best friend in helping you get gold chest:    
-            Let me tell you a trick with Gather:
-            - Gather Bonus increases gathering speed 
-            - I like to think of it like a gather time reduction item.
-            - What I do is: 
-              * I start my gathering and note the gather time of all the legions.
-              * Usually I have similar gather time, say 8 hours.
-            - 
+   1. Rearrange your heroes so that all your legions have uniform gather load capacity.    
+       In simple terms, if your legions have similar load capacity i.e. the total amount of resource
+       the legion can gather, then all your legions will have similar gather time.
+       Having similar gather time is very useful, since that will help you to plan ahead when 
+       to put on the COP bonus and recall troops.
+
+   1. Start gathering on Sunday, the day before the Gather Day. (it is risky since enemies might
+           hit your gathering tiles, but it is a risk you will have to take)
+   1. Gather bonus item is probably your best friend in helping you get gold chest:    
+         Let me tell you a trick with Gather:
+         - Gather Bonus increases gathering speed 
+         - I like to think of it like a gather time reduction item.         
+         - What I do is: 
+           * I start my gathering and note the gather time of all the legions.
+           * Usually I have similar gather time, say 8 hours.
+           * I put on an alarm and come online say in 6 hours, so remaining gather time is 2 hours.
+           * Then I put on the Clash of Province Score and then Gather Bonus
+           * This will instantly reduce the remaining 2 hours to almost 0 and recall all the legions come back
+           * Right after the legions are inside the castle I send them out to gather.
+           * This sending out again is to utilise the remaining time in the COP score.
+           * I recall again just before the COP score expires.
+I you follow the above techniques, you are sure to get gold chest.
+
+### COP Building Day:
+
+
