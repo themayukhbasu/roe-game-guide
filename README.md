@@ -301,26 +301,25 @@ Note: There is a lot more to heroes than what I have mentioned above. But this i
 
 ## COP Quick Tip #
 
-1. What is 50% Clash of Province Score?
+1. What is 50% Clash of Province Score? <br/>
 The item 50% COP bonus is very important because it is a "point multiplier".
 In simple terms, if you get 1000 points from 1 building power, using the 50% COP bonus will 
 give you 1000 + 50% of 1000 = 1500 points.
 This helps a lot when you are trying to reach Clash of Province Gold chest.
 Note: The 50% COP bonus works only for 30 min.
 
-1. How to use COP bonus score? (except for gather day)
+1. How to use COP bonus score? (except for gather day and hero day) <br/>
 The best way to use COP bonus is between 2 hourly events that you can get gold chest for.
 You start the cop score at the last 10 min of the 1st hourly event so that it continues 
 to the next event. You get 2 hourly gold chest and COP gold chest.
 You can check the event schedule in the Appgamer website.
 
-1. How to use COP Bonus score on Gather day?
+1. How to use COP Bonus score on Gather day? <br/>
 For gather day, you use COP bonus in the following way:
    - just before recalling (or if fast do it during your troops are  marching back), put on COP bonus
    - right after they come back send them off to gather.
    - recall them just before the cop 30 min is up
-1. What does "Exchange" do for the 50% COP Bonus?
-
+1. What does "Exchange" do for the 50% COP Bonus? <br/>
 You can exchange four 50% COP bonus to get one 100% COP bonus.
 100% COP bonus will mutliply the points by 2.
 So for 1000 points for 1 building power, you will get 2000 points.
@@ -342,34 +341,34 @@ The extra points become useless unless it opens a chest.
 
 ## Easy way to get the material thats hardest to get for your troop type:
 
-One of the best way to get equipment is to buy green chests from store.
-They cost 250 gems each and will give you (green) 3 out of the 4 materials that you require very easily.
+One of the best way to get equipment is to buy green chests from store. <br/>
+They cost 250 gems each and will give you (green) 3 out of the 4 materials that you require very easily. <br/> <br/>
 The 4th material is always the hardest to get:
-    - Cavalry: Dragon Tendon (looks like a wire)
-    - Archer:  Wolf Hide (looks like wolf's skin)
-    - Footmen: Secret Order (looks like a scroll)
+  - Cavalry: Dragon Tendon (looks like a wire)
+  - Archer:  Wolf Hide (looks like wolf's skin)
+  - Footmen: Secret Order (looks like a scroll)
 
 The way to get these requires a bit of gambling:
 - First dissasemble the 4th material to all white color.
 - Then find the equipment which take 1 white 4th material. It is the equipment called "amulet" or "accessory"
-    = Example: For steel cavalry, the amulet is Jade Belt and the accessory is Cowl, that requires 1 4th material
+    * Example: For steel cavalry, the amulet is Jade Belt and the accessory is Cowl, that requires 1 4th material
 - Your goal is to craft GREEN amulet or accessory:
-    = Put green material for all excpet the 4th material.
-    = (OPTIONAL) You can spend gems to craft the equipment instantly
-    = This will give you a 66% chance that your equipment will turn out to be green.
+    * Put green material for all excpet the 4th material.
+    * (OPTIONAL) You can spend gems to craft the equipment instantly
+    * This will give you a 66% chance that your equipment will turn out to be green.
 - 3 out of 4 times the above crafting will give you green equipment.
 - You can dissasemble this green equipment to get green materials including a GREEN 4th material.
 - So even though you put in WHITE 4th material you can get GREEN back
 - However, if it fails to make a green equipment, you will end up having a white equipment
-    = Which means all the material that you get back will be white.
-    = So you loose the green materials you put in, but you will mostly have an abundance of those anyways.
-    = With this method you don't loose a single 4th material. 
-    = Even if the equipment turns out to be white, you still get back the white 4th material that you put.
+    * Which means all the material that you get back will be white.
+    * So you loose the green materials you put in, but you will mostly have an abundance of those anyways.
+    * With this method you don't loose a single 4th material. 
+    * Even if the equipment turns out to be white, you still get back the white 4th material that you put.
 - In summary:
-    = Buy green chests from store`
-    = Craft amulet or accessory with 3 green and 1 white material (4th material)
-    = dissasemble the equipment to get back the materials 
-    = Rinse and repeat 
+    * Buy green chests from store`
+    * Craft amulet or accessory with 3 green and 1 white material (4th material)
+    * dissasemble the equipment to get back the materials 
+    * Rinse and repeat 
 - Enjoy!
 
 
