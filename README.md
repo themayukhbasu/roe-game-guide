@@ -217,13 +217,13 @@ your castle development.
 
 There are 4 rarity of heroes (at least in this early stage, later there will be other heroes):
 (You can know which hero is of which rarity by the background color of the hero picture)
-    1) Green heroes: very common heroes, not important
-    2) Blue heroes: common, not important (*1 certain exceptions, explained later)
-        - Has 4 unlockable skills
-    3) Purple Heroes: uncommon, important, should be used if no orange hero alternative
-        - Has 6 unlockable skills
-    4) Orange Heroes: Rare, very important, must be handled very carefully !
-        - Has 8 unlockable skills
+1. Green heroes: very common heroes, not important
+1. Blue heroes: common, not important (*1 certain exceptions, explained later)
+    - Has 4 unlockable skills
+1. Purple Heroes: uncommon, important, should be used if no orange hero alternative
+    - Has 6 unlockable skills
+1. Orange Heroes: Rare, very important, must be handled very carefully !
+    - Has 8 unlockable skills
 
 Each Combat hero has 2 type of skills:
    Leadership Skill (green background): Skill 1,3,4,6,7
@@ -301,26 +301,25 @@ Note: There is a lot more to heroes than what I have mentioned above. But this i
 
 ## COP Quick Tip #
 
-1) What is 50% Clash of Province Score?
+1. What is 50% Clash of Province Score?
 The item 50% COP bonus is very important because it is a "point multiplier".
 In simple terms, if you get 1000 points from 1 building power, using the 50% COP bonus will 
 give you 1000 + 50% of 1000 = 1500 points.
 This helps a lot when you are trying to reach Clash of Province Gold chest.
 Note: The 50% COP bonus works only for 30 min.
 
-2) How to use COP bonus score? (except for gather day)
+1. How to use COP bonus score? (except for gather day)
 The best way to use COP bonus is between 2 hourly events that you can get gold chest for.
 You start the cop score at the last 10 min of the 1st hourly event so that it continues 
 to the next event. You get 2 hourly gold chest and COP gold chest.
 You can check the event schedule in the Appgamer website.
 
-2.2) How to use COP Bonus score on Gather day?
+1. How to use COP Bonus score on Gather day?
 For gather day, you use COP bonus in the following way:
-- just before recalling (or if fast do it during your troops are  marching back), put on COP bonus
-- right after they come back send them off to gather.
-- recall them just before the cop 30 min is up
-
-3) What does "Exchange" do for the 50% COP Bonus?
+   - just before recalling (or if fast do it during your troops are  marching back), put on COP bonus
+   - right after they come back send them off to gather.
+   - recall them just before the cop 30 min is up
+1. What does "Exchange" do for the 50% COP Bonus?
 You can exchange four 50% COP bonus to get one 100% COP bonus.
 100% COP bonus will mutliply the points by 2.
 So for 1000 points for 1 building power, you will get 2000 points.
@@ -333,9 +332,9 @@ The extra points become useless unless it opens a chest.
 ## Random Tips:
 
 ### How to get courage medals:
-1) Hitting monsters
-2) Exchange courage medals with hero tokens in token shop in benefit center (You get hero tokens from Gold Chests) (50 courage medals for 15 tokens is the best deal, you can refresh the shop with 200 gems until you get deals like that)
-3) Courage medals are also received from Purple and Gold Clash of Province Chests
+1. Hitting monsters
+2. Exchange courage medals with hero tokens in token shop in benefit center (You get hero tokens from Gold Chests) (50 courage medals for 15 tokens is the best deal, you can refresh the shop with 200 gems until you get deals like that)
+3. Courage medals are also received from Purple and Gold Clash of Province Chests
 
 ---
 
@@ -401,11 +400,11 @@ This Technology helps by "increasing gathering speed", "increasing gather load c
 You will need Courage Medals to research this and so you need to save those medals.
 
 ### How to get courage medals:
-1) Hitting monsters
-2) Exchange courage medals with hero tokens in token shop in benefit center 
+1. Hitting monsters
+1. Exchange courage medals with hero tokens in token shop in benefit center 
     (You get hero tokens from Gold Chests) (50 courage medals for 15 tokens is the best deal,
      you can refresh the shop with 200 gems until you get deals like that)
-3) Courage medals are also received from Purple and Gold Clash of Province Chests 
+1. Courage medals are also received from Purple and Gold Clash of Province Chests 
     (anything from Chest 2 gives courage medals)
 
 ### COP Gathering Day Guide:
