@@ -282,15 +282,10 @@ Legion Guide:
     I personally use Orochi - Dual Blade - Heaven's Justice in 1st, 2nd , 3rd rows respectively
 
 Quick tips:
-    - Try to have your front row hero have high defence and more troops, since the row which is at the 
-        front always gets hit the hardest. If you have high defence, then it means more time for your 
-        heroes to survive and they can activate their combat skills.
-    - Don't invest medals and experience in any heroes other than orange ones if possible. Saving
-        the medals and hero experiences means once you get lucky and get an orange hero, you can make it
-        great very fast.
-    - Don't open S5 unless you have used the hero's medal to open S6 first. 
-        Example: I got Orochu 3 times, so during the 1st duplicate I opened S6 and only then
-        I opened S5. If didn't get Orochi 3 times, I wouldn't have ever opened S5 before doing S6.
+- Try to have your front row hero have high defence and more troops, since the row which is at the front always gets hit the hardest. If you have high defence, then it means more time for your heroes to survive and they can activate their combat skills.
+- Don't invest medals and experience in any heroes other than orange ones if possible. Saving the medals and hero experiences means once you get lucky and get an orange hero, you can make it great very fast.
+- Don't open S5 unless you have used the hero's medal to open S6 first. 
+    Example: I got Orochu 3 times, so during the 1st duplicate I opened S6 and only then I opened S5. If didn't get Orochi 3 times, I wouldn't have ever opened S5 before doing S6.
 
 *1) Some blue heroes like Lady Knight, Shifu, The Sergeant are very important since
     they give bonus to troop training like speed and count increases.
