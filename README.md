@@ -136,7 +136,8 @@ After playing the game for a bit, when you are able to acess the map screen, you
 
 > How to change state?
 
-Before reaching castle level 6, goto map > the state view > all state map
+Before reaching castle level 6, goto map > the state view > all state map.
+You can change state at Castle level 3
 Find your main state from here, go inside and then click on an empty tile.
 You will be given the option of "Change Zone", click it and you will be in the main state.
 
