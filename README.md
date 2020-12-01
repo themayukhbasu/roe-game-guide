@@ -320,6 +320,7 @@ For gather day, you use COP bonus in the following way:
    - right after they come back send them off to gather.
    - recall them just before the cop 30 min is up
 1. What does "Exchange" do for the 50% COP Bonus?
+
 You can exchange four 50% COP bonus to get one 100% COP bonus.
 100% COP bonus will mutliply the points by 2.
 So for 1000 points for 1 building power, you will get 2000 points.
