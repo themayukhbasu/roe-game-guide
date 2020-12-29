@@ -436,10 +436,3 @@ I you follow the above techniques, you are sure to get gold chest.
 <hr/>
 <hr/>
 
-# Important Message to 305
-Kindly note that leaving the game was ultimately my own choice. It is true that differences in opinion multiplied by the reduced inhibition of actions in such virtual games was the cause for my initial temporary leave. However, my decision to permanently leave was of my own volition and had nothing to do with the initial cause, which was resolved later on.
-<br/><br/>
-Perpetrators using my leaving the game as an excuse to conduct illicit behavior should be seen as what they truly are: malignant elements trying to get in the way of enjoyment of others. It only reveals the true nature of the perpetrator.
-<br/><br/>
-I do not condone disgusting behavior like thievery or insulting behaviour tantamount to cyber bullying.<br/>
-~ sudo rm -rf :penguin:
