@@ -127,37 +127,38 @@ If you don't want to pay a lot of money you need make farms.
 
 > How to make farm accounts?
 
-** Hopefully you have your main castle bound to some email ID
-Goto menu > 3 dots > account > start a new game
-This will create a new game in a newer state.
-Before you reach Castle level 6 you need to move to your main state.
-After castle level 6, there is nothing you can do to change state.
-After playing the game for a bit, when you are able to acess the map screen, you have to move.
+**Hopefully you have your main castle bound to some email ID** <br/>
+- Goto menu > 3 dots > account > start a new game
+- This will create a new game in a newer state.
+- Before you reach Castle level 6 you need to move to your main state.
+- After castle level 6, there is nothing you can do to change state.
+- After playing the game for a bit, when you are able to acess the map screen, you have to move.
 
 > How to change state?
 
-Before reaching castle level 6, goto map > the state view > all state map.
-You can change state at Castle level 3
-Find your main state from here, go inside and then click on an empty tile.
-You will be given the option of "Change Zone", click it and you will be in the main state.
+Before reaching castle level 6, goto map > the state view > all state map.<br/>
+You can change state at Castle level 3<br/>
+Find your main state from here, go inside and then click on an empty tile.<br/>
+You will be given the option of "Change Zone", click it and you will be in the main state.<br/>
 
 > Buildings in Farm account:
 
-- Castle level: level 13 (as fast as possible) and level 16 (slowly)
+- Castle level: level 13 (as fast as possible) and then straight to level 18 
 - Storages: Max level. Castle 13 allows you to get the extrac storage
 - Resource production buildings: max level
 - Mint: max level 
 - Trading house (baloon): min level 10
-- stable: lvl 2
-- Training grounds: slowly max level
+- stable: lvl 16
+- Training grounds: upgrade to max level as fast as possible
 - Medical tent: Max level
 - Military buildings: No need to upgrade military buildings (watch tower, fortress etc)
 
 > Troops in farm account:
 
 - We use troops only for gathering.
-- 3 legion full of T1 cavalry.
-- T1 cavalry have the higest load capacity.
+- 4 legion full of T1 cavalry.
+- Each legion must have gathering load capacity of atleast 1 million
+- T1 cavalry have the higest load capacity (after research).
 
 > Technology in farm account:
 
@@ -170,12 +171,12 @@ You will be given the option of "Change Zone", click it and you will be in the m
 
 - Choose farmer class at the beginning
 - Complete daily task everyday
-- Fill 3 legions with T1 cavs, (upgrade hero S1 and training ground for legion capacity)
+- Fill 4 legions with T1 cavs, (upgrade hero S1 and training ground for legion capacity)
 - Only keep blue hero in legion
-- Send 3 legion to gather the resource you need
+- Send 4 legion to gather the resource you need
 - Ensure that your storage capacity is more than depot protection
 - trade resources in baloon
-- Depending on the number of farms, after reaching c13 divide them into trader and farmer class.
+- Depending on the number of farms, after reaching C18 divide them into trader and farmer class as you require.
     * Trader class 
         * Pros:
           - Has very low depot protection, so you are able to loot more resources.
@@ -190,7 +191,7 @@ You will be given the option of "Change Zone", click it and you will be in the m
         * Cons:
           - Has very high depot protection, so you need to have high storage level.
           - low gold production
-- before attacking with your main castle, keep the troops out       
+- before attacking with your main castle, keep the troops out (send them to gather)      
 - If your main is a raider class, before going offline spend the stamina of the class legion to loot gold
     from farm, since gold is the hardest to get and you get only a certain amount per hit.
     Think of it as spending stamina to get gold from the farm.
