@@ -162,6 +162,7 @@ You will be given the option of "Change Zone", click it and you will be in the m
 > Technology in farm account:
 
 - Town development tech tree: max level
+- Zone Commemoration Research: atleast till 4-6 rewards and continue as much possible
 - Rapid production tech tree: max level
 - Legion research: unlock 1st hero in 3 legions and do 5/5 in high-speed gather and take it all (Clash of province) Do as much as COP research as possible in farm
 
